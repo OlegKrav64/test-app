@@ -45,7 +45,6 @@ Here are areas that would benefit from refactoring and improvement:
 - Styling
 - Better error handling
 - Better form validation
-- Use Zustand selectors to prevent unnecessary re-renders and improve performance
 - Separate data access layer, better query optimization, right now all database operations in store actions,
 - Better performance
 
